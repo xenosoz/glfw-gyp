@@ -7,7 +7,7 @@
       'target_name': 'pong3d',
       'type': 'executable',
       'dependencies': [
-        'glfw_lib',
+        'glfw_static',
       ],
       'sources': [
         'glfw-2.7.6/examples/pong3d.c',
