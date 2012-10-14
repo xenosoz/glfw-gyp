@@ -14,8 +14,8 @@
       },
       'link_settings': {
         'libraries': [
-          'opengl32.lib',
-          'glu32.lib',
+          '-lopengl32.lib',
+          '-lglu32.lib',
         ],
       },
       'defines': [
