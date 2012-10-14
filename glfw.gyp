@@ -3,8 +3,8 @@
 #
 {
   'includes': [
-    'glfw_lib.gypi',
-    'glfw_dll.gypi',
+    'glfw_shared.gypi',
+    'glfw_static.gypi',
     'pong3d.gypi',
   ],
 }

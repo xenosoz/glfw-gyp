@@ -4,7 +4,7 @@
 {
   'targets': [
     {
-      'target_name': 'glfw_dll',
+      'target_name': 'glfw_shared',
       'product_name': 'glfw',
       'type': 'shared_library',
       'direct_dependent_settings': {

@@ -4,7 +4,7 @@
 {
   'targets': [
     {
-      'target_name': 'glfw_lib',
+      'target_name': 'glfw_static',
       'product_name': 'glfw',
       'type': 'static_library',
       'direct_dependent_settings': {
